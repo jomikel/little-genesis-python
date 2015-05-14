@@ -1,0 +1,16 @@
+{
+	"water"		: [
+		{
+			"duration"	: 15,
+			"hour"		: 22,
+			"minute"	: 21,
+			"second"	: 0
+		},
+		{
+			"duration"	: 30,
+			"hour"		: 22,
+			"minute"	: 23,
+			"second"	: 0
+		}
+	]
+}
