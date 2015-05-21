@@ -12,5 +12,13 @@
 			"minute"	: 23,
 			"second"	: 0
 		}
+	],
+	
+	"light"		: [
+		{
+			"duration"	: 480,
+			"red"		: 100,
+			"blue"		: 
+		}
 	]
 }
