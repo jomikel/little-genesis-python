@@ -1,0 +1,8 @@
+[Unit]
+Description=Little Genesis Start Script
+
+[Service]
+ExecStart=/projects/little-genesis-python/lg.py
+
+[Install]
+WantedBy=multi-user.target 

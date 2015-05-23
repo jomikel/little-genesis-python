@@ -1,0 +1,31 @@
+{
+	"hardware"	: {
+		"waterpin"	: 0
+	},
+	"software"	: {
+		"logfile"	: "/var/log/little-genesis.log"
+	},
+	"water"		: [
+		{
+			"duration"	: 10,
+			"hour"		: 9,
+			"minute"	: 27,
+			"second"	: 0
+		},
+		{
+			"duration"	: 10,
+			"hour"		: 9,
+			"minute"	: 28,
+			"second"	: 0
+		}
+	],
+	
+	"light"		: [
+		{
+			"duration"	: 480,
+			"red"		: 100,
+			"blue"		: 100,
+			"yellow"	: 0
+		}
+	]
+}
