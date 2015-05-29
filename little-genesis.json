@@ -1,6 +1,11 @@
 {
 	"hardware"	: {
-		"waterpin"	: 0
+		"waterpin"	: 7,
+		"lightpins"	: {
+			"red"	: 0,
+			"green"	: 2,
+			"blue"	: 3
+		}
 	},
 	"software"	: {
 		"logfile"	: "/var/log/little-genesis.log"
@@ -25,7 +30,7 @@
 			"duration"	: 480,
 			"red"		: 100,
 			"blue"		: 100,
-			"yellow"	: 0
+			"green"		: 0
 		}
 	]
 }
